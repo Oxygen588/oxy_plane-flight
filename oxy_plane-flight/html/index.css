@@ -1,0 +1,141 @@
+body {
+    background: none !important;
+}
+
+#container {
+    height: 100%;
+    width: 100%;
+    background-image: url(bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+#mini {
+    font-size: 20px;
+    padding: 25px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    top: 10%;
+    left: 15%;
+    height: 10%;
+    width: 10%;
+    padding: 5px 10px 5px 10px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    background: rgba(24, 27, 32, 0.5);
+    border-radius: 10px;
+}
+
+.raspunsuri {
+    font-size: 20px;
+    padding: 25px;
+    color: white;
+    transform: translate(-50%, -50%);
+    background-color: rgb(44, 44, 44);
+    height: 600px;
+    width: 550px;
+    border: 2px solid aliceblue;
+    border-radius: 7px;
+}
+
+#h1 {
+    font-size: 20px;
+    padding: 25px;
+    color: white;
+    transform: translate(-50%, -50%);
+    background-color: rgb(11, 9, 107);
+    border: 2px solid aliceblue;
+    border-radius: 7px;
+}
+
+.rasp1 {
+    background-color: #576675;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: relative;
+    top: 100px;
+    left: 21%;
+    width: 550px;
+    border-radius: 7px;
+}
+
+.rasp2 {
+    background-color: #576675;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: relative;
+    top: 200px;
+    left: -21%;
+    width: 550px;
+    border-radius: 7px;
+}
+
+.rasp3 {
+    background-color: #576675;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    color: white;
+    position: relative;
+    top: 240px;
+    left: 21%;
+    width: 550px;
+    border-radius: 7px;
+}
+
+.rasp4 {
+    background-color: #576675;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: relative;
+    top: 400px;
+    left: -21%;
+    width: 550px;
+    border-radius: 7px;
+}
+
+button {
+    background-color: #4CAF50;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+input {
+    margin-bottom: 5px;
+    width: 100%;
+    font-size: 15px;
+    padding: 12px;
+}
